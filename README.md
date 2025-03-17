@@ -28,7 +28,7 @@ We analyzed **revenue patterns among restaurants** using statistical techniques 
 - **Town Population & Area Income** were the strongest revenue drivers.
 - **Neural Networks outperformed regression models** in revenue prediction.
 
-📄 **Detailed Report:** [Part 2 - Restaurant Revenue Analysis](./Part%202%20-%20Restaurant%20Project%202%20for%20MGMT%20635%20(Data%20Mining%20for%20Managers).pdf)
+📄 **Detailed Report:** [Part 2 - Restaurant Revenue Analysis](https://github.com/Swasti28/Data-Driven-Restaurant-Investment-Revenue-Forecasting-Location-Optimization/blob/main/Part%202%20-%20Restaurant%20Project%202%20for%20MGMT%20635%20(Data%20Mining%20for%20Managers).pdf)
 
 ---
 
@@ -49,9 +49,9 @@ Using **decision tree models** and **segmentation analysis**, we evaluated wheth
 - **App investment was NOT profitable** (-$72,288 avg revenue loss per month).
 - **Predicted Monthly Revenue:** **$621,083** 💰 | **Profit Margin:** **+49.8%**
 
-📄 **Decision Tree Analysis:** [Part 3 - Restaurant Location](./Part%203%20-%20Restaurant%20Location%20(1).pdf)
+📄 **Decision Tree Analysis:** [Part 3 - Restaurant Location](https://github.com/Swasti28/Data-Driven-Restaurant-Investment-Revenue-Forecasting-Location-Optimization/blob/main/Part%203%20-%20Restaurant%20Location%20(1).pdf)
 
-📄 **Profitability Forecast:** [Grading Sheet & Financial Analysis](./Mgmt635%20Part3%20Grading%20Sheet%203%20-%20Swasti%20Johri.docx)
+📄 **Profitability Forecast:** [Grading Sheet & Financial Analysis](https://github.com/Swasti28/Data-Driven-Restaurant-Investment-Revenue-Forecasting-Location-Optimization/blob/main/Mgmt635%20Part3%20Grading%20Sheet%203%20-%20Swasti%20Johri.docx)
 
 ---
 
@@ -69,7 +69,7 @@ Using **decision tree models** and **segmentation analysis**, we evaluated wheth
 ✅ **Avoid investing in a restaurant app** unless customer demand justifies it.  
 ✅ **Use decision trees & segmentation analysis** to identify high-revenue locations.  
 
-📄 **Final Analysis Report:** [Restaurant Location Part 3 - Final Assignment](./Restaurant%20Location%20Part%203%20-%20final%20assignment.xls)
+📄 **Final Analysis Report:** [Restaurant Location Part 3 - Final Assignment](https://github.com/Swasti28/Data-Driven-Restaurant-Investment-Revenue-Forecasting-Location-Optimization/blob/main/Restaurant%20Location%20Part%203%20-%20final%20assignment.xls)
 
 ---
 
